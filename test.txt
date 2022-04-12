@@ -1,4 +1,5 @@
 ssaewong_terminal modify #1 
+ssaewong_terminal modify #2
 i
 do
 ia
