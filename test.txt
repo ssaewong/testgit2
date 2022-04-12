@@ -4,6 +4,7 @@ ssaewong_terminal modify #1
 anubis_feature modify #2
 fix based on review #1
 anu_subfeature modify #1 
+ssaewong_terminal modify #2
 i
 do
 ia
