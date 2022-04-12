@@ -5,6 +5,7 @@ anubis_feature modify #2
 fix based on review #1
 anu_subfeature modify #1 
 ssaewong_terminal modify #2
+anubis last_commit #1
 i
 do
 ia
