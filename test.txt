@@ -1,7 +1,4 @@
-# remove from ssaewong_feature, add from VScode
-TODO: 
-
-FIXME:
+remove from ssaewong_feature, add from VScode
 i
 do
 ia
